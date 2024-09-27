@@ -1,0 +1,22 @@
+{
+  "name": "best-student-score",
+  "version": "1.0.0",
+  "description": "",
+  "main": "best_score_counting.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valeriastns/best-student-score.git"
+  },
+  "author": "Valeriia Sharybina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valeriastns/best-student-score/issues"
+  },
+  "homepage": "https://github.com/valeriastns/best-student-score#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
